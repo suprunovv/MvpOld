@@ -1,0 +1,40 @@
+/* 
+  Localazible.strings
+  MVPproject
+
+  Created by MacBookPro on 28.03.2024.
+  
+*/
+
+"AuthScreen.EmailLabelText" = "Email Address";
+"AuthScreen.passwordLabelText" = "Password";
+"AuthScreen.emailTextFiledPlaceholder" = "Enter Email Address";
+"AuthScreen.passwordTextFiledPlaceholder" = "Enter Password";
+"AuthScreen.incorrectEmailText" = "Incorrect format";
+"AuthScreen.incorrectPasswordText" = "You entered the wrong password";
+"AuthScreen.errorLabelText" = "Please check the accuracy of the \nentered credentials.";
+"AuthScreen.loginTitle" = "Login";
+
+"RecipesScreen.titleText" = "Recipes";
+"SortButtonView.calloriesTitle" = "Calories";
+"SortButtonView.timeTitle" = "Time";
+
+"Category.searchBarPlaceholder" = "Search recipes";
+"Category.notFoundTitle" = "Nothing found";
+"Category.notFoundDescription" = "Try entering your query differently";
+"Category.errorMessageDescription" = "Failed to load data";
+"Category.emptyPageDescription" = "Start typing text";
+
+"DetailViewController.emptyDataTitle" = "Nothing found";
+"DetailViewController.emptyDataDescription" = "Try reloading the page";
+"DetailViewController.errorMessageDescription" = "Failed to load data";
+
+"EnergyView.Unit.calories" = "kcal";
+"EnergyView.Unit.gram" = "g";
+
+"EnergyView.TitleType.enerckcal" = "Enerc kcal";
+"EnergyView.TitleType.carbohydrates" = "Carbohydrates";
+"EnergyView.TitleType.fats" = "Fats";
+"EnergyView.TitleType.proteins" = "Proteins";
+
+"ShimerView.gadientKey" = "shimmerAnimation";
