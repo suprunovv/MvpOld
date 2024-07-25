@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "463cb2d659c8ae34899d18057ea5b1bb86fc3178",
+        "version" : "2.8.4"
+      }
+    },
+    {
+      "identity" : "textfileds",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/suprunovv/TextFileds",
+      "state" : {
+        "revision" : "256c0a34014169b6c9336065500d54450d99ca34",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
